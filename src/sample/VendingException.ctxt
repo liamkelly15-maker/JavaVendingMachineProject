@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=VendingException
+comment1.params=reason
+comment1.target=VendingException(java.lang.String)
+numComments=2

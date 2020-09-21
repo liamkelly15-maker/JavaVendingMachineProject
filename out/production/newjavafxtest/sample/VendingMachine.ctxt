@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=VendingMachine
+comment0.text=\r\n\ \ \ A\ vending\ machine.\r\n
+comment1.params=
+comment1.target=VendingMachine()
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ a\ VendingMachine\ object.\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getProducts()
+comment2.text=\r\n\ \ \ \ \ \ Gets\ the\ type\ of\ products\ in\ the\ vending\ machine.\r\n\ \ \ \ \ \ @return\ an\ array\ of\ products\ sold\ in\ this\ machine.\r\n
+comment3.params=p\ credit\ c\ cindex
+comment3.target=double\ buyProduct(Product,\ double,\ Customer,\ int)
+comment3.text=\r\n\ \ \ \ \ \ Buys\ a\ product\ from\ the\ vending\ machine.\r\n\ \ \ \ \ \ @param\ p\ the\ product\ to\ buy\r\n
+comment4.params=p\ addstock
+comment4.target=boolean\ reloadProduct(Product,\ int)
+comment5.params=p
+comment5.target=boolean\ addProduct(Product)
+numComments=6

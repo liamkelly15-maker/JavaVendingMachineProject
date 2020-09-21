@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ \ \ A\ product\ in\ a\ vending\ machine.\r\n
+comment1.params=aDescription\ aPrice\ aStock
+comment1.target=Product(java.lang.String,\ double,\ int)
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ a\ Product\ object\r\n\ \ \ \ \ \ @param\ aDescription\ the\ description\ of\ the\ product\r\n\ \ \ \ \ \ @param\ aPrice\ the\ price\ of\ the\ product\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ \ \ \ \ \ Gets\ the\ description.\r\n\ \ \ \ \ \ @return\ the\ description\r\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\r\n\ \ \ \ \ \ Gets\ the\ price.\r\n\ \ \ \ \ \ @return\ the\ price\r\n
+comment4.params=
+comment4.target=int\ getstock()
+comment5.params=
+comment5.target=void\ removeastock()
+comment6.params=newstock
+comment6.target=void\ addtostock(int)
+comment7.params=other
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\r\n\ \ \ \ \ \ Determines\ of\ this\ product\ is\ the\ same\ as\ the\ other\ product.\r\n\ \ \ \ \ \ @param\ other\ the\ other\ product\r\n\ \ \ \ \ \ @return\ true\ if\ the\ products\ are\ equal,\ false\ otherwise\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ \ \ \ \ \ Formats\ the\ product's\ description\ and\ price.\r\n
+numComments=9

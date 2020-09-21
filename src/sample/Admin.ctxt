@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=ausername\ apassword
+comment1.target=Admin(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.util.ArrayList\ getadmins()
+comment3.params=
+comment3.target=java.lang.String\ getusername()
+comment4.params=
+comment4.target=int\ getpassword()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ \ \ \ \ \ Formats\ the\ Customer's\ detail.\r\n
+numComments=6

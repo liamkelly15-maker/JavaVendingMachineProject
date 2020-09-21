@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=filereadercustomers
+comment1.params=
+comment1.target=filereadercustomers()
+comment2.params=
+comment2.target=java.util.ArrayList\ getcustomers()
+numComments=3
