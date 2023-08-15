@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.util.*;
 import java.io.IOException;
-
+//comment
 
 public class Customer extends User
 {
